@@ -1,8 +1,4 @@
 //Underconstruction
-/*
-This code is devoted to my dear father Jesus Christ.
-Code by St. Spirit and Danijar Wolf, Feb 20, 2020.
-*/
 
 #include <iostream>
 #include<ctime>
@@ -1079,9 +1075,5 @@ int main()
    //NeuralNetwork.pushLayer(Layer<double>(64, 32));
    //NeuralNetwork.pushLayer(Layer<double>(32, 16));
    //NeuralNetwork.pushLayer(Layer<double>(16, 10));
-
-
-    std::cout << "Hello World!\n";
-
     return 0;
 }
